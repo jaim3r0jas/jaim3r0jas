@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @jaim3r0jas
-- 👀 I’m interested in helping small businnes at scale
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m @jaim3r0jas | software engineer | career in Java and its associates.
+- 👀 I’m interested in creating software that really helps small businnes @scale.
+- 🌱 I’m currently learning Kotlin and creating an infrastructure of website manager to help create efficient staic websites that can hel psmall business promote their services of products.
 - 📫 How to reach me at jaime@jadatech.de or jaimitorojas@gmail.com
 
 <!---
